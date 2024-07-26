@@ -8,6 +8,6 @@ Generative Cross-Modal Retrieval: Memorizing Images in Multimodal Language Model
 Distillation Enhanced Generative Retrieval. ACL 2024 findings (DGR).
 ```
 All code, data, and checkpoints of the above works are open-released:  
-1. MINDER, LTRGR, and DGR, are a series of works on text retrieval. LTRGR and DGR continue training the MINDER model, and therefore we release MINDER, LTRGR, and DGR in the same repository.  
-2. GCoQA is the work on conversational retrieval.  
-3. GRACE is the wrok on cross-modal retrieval.  
+1. MINDER, LTRGR, and DGR, are a series of works on text retrieval. LTRGR and DGR are continuously training based on the MINDER model, so we release MINDER, LTRGR, and DGR together in the same repository https://github.com/liyongqi67/MINDER.  
+2. GCoQA is the work on conversational retrieval and is released at https://github.com/liyongqi67/GCoQA.  
+3. GRACE is the work on cross-modal retrieval and I am organizing the code.  
